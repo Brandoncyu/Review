@@ -10,9 +10,9 @@
 <details>
   <summary>Answer here</summary>
   The answer are these tags. 
-  hr 
+  link 
   input 
-  br 
+  img 
 </details>
 
 ## What is used to wrap HTML content?
