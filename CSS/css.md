@@ -45,6 +45,7 @@
     body {color: black;}
 </details>
 
+
 ## How do you insert a comment in a CSS file?
 
 <details>
@@ -52,12 +53,14 @@
     /* this is a comment */
 </details>
 
+
 ## Which property is used to change the background color?
 
 <details>
     <summary>Answer here</summary>
     background-color
 </details>
+
 
 ## Which CSS property is used to change the text color of an element?
 
@@ -80,19 +83,6 @@
    p {font-weight:bold;}
 </details>
 
-## How do you display hyperlinks without an underline?
-
-<details>
-    <summary>Answer here</summary>
-   a {text-decoration:none;}
-</details>
-
-## How do you make each word in a text start with a capital letter?
-
-<details>
-    <summary>Answer here</summary>
-  text-transform:capitalize
-</details>
 
 ## Which property is used to change the font of an element?
 
@@ -110,37 +100,12 @@
 </details>
 
 
-## When using the padding property; are you allowed to use negative values?
-
-<details>
-    <summary>Answer here</summary>
-    not allowed
-</details>
-
-## How do you make a list that lists its items with squares?
-
-<details>
-    <summary>Answer here</summary>
-    list-style-type: square;
-</details>
 
 ## How do you select all p elements inside a div element?
 
 <details>
     <summary>Answer here</summary>
     div p
-</details>
-
-## How do you display a border like this:
-```
-The top border = 10 pixels
-The bottom border = 5 pixels
-The left border = 20 pixels
-The right border = 1pixel?
-```
-<details>
-    <summary>Answer here</summary>
-    border-width:10px 1px 5px 20px
 </details>
 
 
@@ -159,6 +124,7 @@ The right border = 1pixel?
     <summary>Answer here</summary>
     The <head> tag
 </details>
+
 
 ## What is the default position property?
 
