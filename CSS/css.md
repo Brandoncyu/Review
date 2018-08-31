@@ -26,8 +26,7 @@
 
 <details>
   <summary>Answer here</summary>
-    The answer is 
-   ##  \* <link rel="stylesheet" type="text/css" href="mystyle.css"> *\
+    ## The answer is   \* <link rel="stylesheet" type="text/css" href="mystyle.css"> *\
     
 </details>
 
