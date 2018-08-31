@@ -26,8 +26,10 @@
 
 <details>
   <summary>Answer here</summary>
-    ```  \* <link rel="stylesheet" type="text/css" href="mystyle.css"> *\
-  ```
+    <code>
+      link rel="stylesheet" type="text/css" href="mystyle.css"
+    </code>
+
     
 </details>
 
