@@ -38,13 +38,6 @@
     style
 </details>
 
-## Which is the correct CSS syntax?
-
-<details>
-  <summary>Answer here</summary>
-    body {color: black;}
-</details>
-
 
 ## How do you insert a comment in a CSS file?
 
